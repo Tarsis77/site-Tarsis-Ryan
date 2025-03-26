@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #008dce;
+    color: white;
+    padding: 20px;
+    background-image: url(../css/image/image-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-position-x: center;
+    background-position-x: right;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin:15px;
+}
+ 
+nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.body , style{
+    background-image: url(image/palmeiras-x-corinthians-1-1920x1080.png);
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-position-x: center;
+    background-position-x: right;
+
+
+
+}
